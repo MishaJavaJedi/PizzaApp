@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Pizza</string>
+    <string name="menu">Меню</string>
+    <string name="city">Москва</string>
+    <string name="profile">Профиль</string>
+    <string name="cart">Корзина</string>
+    <string name="tabItem1">Пицца</string>
+    <string name="tabItem2">Комбо</string>
+    <string name="tabItem3">Десерты</string>
+    <string name="tabItem4">Напитки</string>
+    <string name="downArrowDescription">Down Arrow</string>
+</resources>
